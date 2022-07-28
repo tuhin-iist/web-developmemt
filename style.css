@@ -1,0 +1,86 @@
+/* 
+Theme Name: ThemeL4
+Author: Dr. Sheikh Abu Reza
+Version: 1.0
+Description: For Tutorial
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* common css end*/
+/* header part start */
+.header_cont{
+    height: 30px;
+    background: #9E5BBA;
+    color: #fff;
+    font-size: 14px;
+}
+.header_right{
+    line-height: 30px;
+}
+.header_right p{
+    display: inline-block;
+    border-right: 1px solid #fff;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.header_right a{
+    color: #fff;
+    text-decoration: none;
+}
+/* header part end */
+/* logo part start */
+.logo{
+    height: 110px;
+}
+.logo_left{
+    line-height: 110px;
+}
+.logo_search{
+    padding-top: 45px;
+}
+.logo_right{
+    padding-top: 35px;
+}
+.logo-1{
+    display: inline-block;
+    border-right: 1px solid #ddd;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+/* logo part end */
+/* sidebar part start */
+.sidebar_img img{
+    height: 50px;
+    margin-bottom: 5px;
+}
+.selector{
+    width: 85%;
+    background: #ddd;
+    padding: 5px;
+}
+.btn1{
+    background: #ddd;
+    padding: 5px;
+    border-color: #ddd;
+}
+.text1{
+    background: green;
+    padding: 6px;
+    margin-top: 5px;
+    color: #fff;
+}
+/* sidebar part end */
+.menu-item{
+    padding-right: 20px;
+}
+.menu-item a{
+    text-decoration: none;
+}
+.carousel-inner img{
+    display: block;
+    width: 100%;
+    height: 400px;
+}
